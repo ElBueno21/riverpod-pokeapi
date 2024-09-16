@@ -1,5 +1,5 @@
 # riverpod-pokeapi
-This project was made to better understand how riverpod statemangement works
+This project was made to better understand how riverpod state management works.
 
 A new Flutter project.
 
